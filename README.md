@@ -15,8 +15,8 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
 ¡Estoy siempre dispuesto a colaborar en nuevos proyectos emocionantes! Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/brayan-triana/)
-- [Torre]([https://torre.ai/brayanandrestrianagomez]
-- (https://torre.ai/s/8fmN5pXHV1))
+- [Torre](https://torre.ai/s/8fmN5pXHV1)
+
 
 ## 📈 Estadísticas de GitHub
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o)
