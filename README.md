@@ -15,7 +15,6 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
 ¡Estoy siempre dispuesto a colaborar en nuevos proyectos emocionantes! Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/brayan-triana/)
-- [Torre](https://torre.ai/brayanandrestrianagomez?r=D3nFKW9G&utm_source=copy-paste&utm_medium=share)
 
 
 ## 📈 Estadísticas de GitHub
