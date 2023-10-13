@@ -18,7 +18,7 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
 
 
 ## 📈 Estadísticas de GitHub
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTriana)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brayan Triana&show_icons=true)
 
