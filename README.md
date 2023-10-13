@@ -3,32 +3,31 @@
 Soy un apasionado desarrollador Full Stack con una pasión por la creación de soluciones tecnológicas innovadoras. ¡Bienvenido a mi rincón en GitHub!
 
 ## :computer: Stack de tecnologías 
+   
+- Frontend: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=Tailwindcss) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+- Backend: ![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=Node.Js)![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+- Bases de Datos: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+- Herramientas: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Frontend: HTML5, CSS3,TailwindCss, JavaScript, Angular, Typescript
-- Backend: Node.js, Express, Django, FastAPI
-- Bases de Datos: MongoDB, MySQL
-- Herramientas: VS Code, Postman Git, GitHub, 
+
 
 
 ## :mailbox: Contáctame
 
 ¡Estoy siempre dispuesto a colaborar en nuevos proyectos emocionantes! Puedes encontrarme en:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-triana/)
 
-- [LinkedIn](https://www.linkedin.com/in/brayan-triana/)
 
 
 ## 📈 Estadísticas de GitHub
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o)
+<a href="https://github.com/Brayanl0-o">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brayanl0-o&hide_border=true&card_width=338&theme=transparent" />
+  </a>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brayanl0-o&show_icons=true)
 
-![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=Brayan_Triana)
-
-![Contribuciones Semanales](https://activity-graph.herokuapp.com/graph?username=Brayanl0-o)
 ## :trophy: Premios GitHub
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brayanl0-o)
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y ponerte en contacto si tienes alguna pregunta o propuesta de colaboración.
