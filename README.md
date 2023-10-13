@@ -18,16 +18,16 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
 - [Torre](https://torre.ai/brayanandrestrianagomez?column=about&r=AtDL3uaa)
 
 ## 📈 Estadísticas de GitHub
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brayan&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brayanl0-o&show_icons=true)
 
-![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=Brayan)
+![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=Brayanl0-o)
 
-![Contribuciones Semanales](https://activity-graph.herokuapp.com/graph?username=Brayan)
+![Contribuciones Semanales](https://activity-graph.herokuapp.com/graph?username=Brayanl0-o)
 ## :trophy: Premios GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brayan)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brayanl0-o)
 
 ---
 
