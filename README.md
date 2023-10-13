@@ -18,11 +18,11 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
 
 
 ## 📈 Estadísticas de GitHub
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTriana)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brayanl0-o&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Brayan Triana&show_icons=true)
 
-![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=Brayanl0-o)
+![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=Brayan_Triana)
 
 ![Contribuciones Semanales](https://activity-graph.herokuapp.com/graph?username=Brayanl0-o)
 ## :trophy: Premios GitHub
