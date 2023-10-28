@@ -25,9 +25,7 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
   </a>
 
 
-## :trophy: Premios GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brayanl0-o)
 
 ---
 
