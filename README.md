@@ -26,7 +26,7 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brayanl0-o&hide_border=true&card_width=338&theme=transparent" />
   </a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
