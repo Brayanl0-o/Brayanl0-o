@@ -24,7 +24,7 @@ Soy un apasionado desarrollador Full Stack con una pasión por la creación de s
 ## 📈 Estadísticas de GitHub
 <a href="https://github.com/Brayanl0-o">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Brayanl0-o&hide_border=true&card_width=338&theme=transparent" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o&langs_count=8&layout=compact&theme=transparent" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanl0-o&langs_count=8&layout=compact&theme=transparent" />
 </a>
 
 
