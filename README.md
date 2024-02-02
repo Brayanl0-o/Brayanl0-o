@@ -18,7 +18,7 @@ I'm a full stack developer passionate about creating innovative technology solut
 
 
 
-## :mailbox: Contáctame
+## :mailbox: Contact
 
 I'm always willing to collaborate on exciting new projects! You can find me at:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-triana/)
